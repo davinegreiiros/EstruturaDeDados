@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1585658718 source:c:\users\migue\onedrive\documentos\estrutuda de dados _ atividades\aula fila prioridade_30_03\main.c
+	<stdio.h>
+	<stdlib.h>
+	"filapri.h"
+
+1585655332 c:\users\migue\onedrive\documentos\estrutuda de dados _ atividades\aula fila prioridade_30_03\filapri.h
+
+1585658714 source:c:\users\migue\onedrive\documentos\estrutuda de dados _ atividades\aula fila prioridade_30_03\filapri.c
+	<stdio.h>
+	<stdlib.h>
+	"filapri.h"
+

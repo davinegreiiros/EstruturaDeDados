@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1586818303 source:c:\users\migue\onedrive\documentos\estrutuda de dados _ atividades\ed_13_04\main.c
+	<stdio.h>
+	<stdlib.h>
+	"lista.h"
+
+1586865457 c:\users\migue\onedrive\documentos\estrutuda de dados _ atividades\ed_13_04\lista.h
+
